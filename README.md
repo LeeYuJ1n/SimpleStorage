@@ -1,4 +1,4 @@
 # SimpleProject
 
 # Information
-1. 묵찌빠 : C++ / ConsoleApp
+1. 묵찌빠 : ConsoleApp
