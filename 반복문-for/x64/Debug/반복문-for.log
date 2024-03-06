@@ -1,0 +1,4 @@
+﻿  반복문-for.cpp
+C:\Users\rladb\OneDrive\바탕 화면\GITHUB\SimpleStorage\반복문-for\반복문-for.cpp(11,23): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rladb\OneDrive\바탕 화면\GITHUB\SimpleStorage\반복문-for\반복문-for.cpp(13,27): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  반복문-for.vcxproj -> C:\Users\rladb\OneDrive\바탕 화면\GITHUB\SimpleStorage\반복문-for\x64\Debug\반복문-for.exe
